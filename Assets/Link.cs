@@ -8,6 +8,7 @@ public class Link : MonoBehaviour
     {
         Call("https://www.google.com/")
         Call("https://www.google.com/")
+        Application.OpenURL("https://www.example.com/");
     }
     
     public void Call(string url)
