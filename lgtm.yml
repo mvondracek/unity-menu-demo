@@ -2,4 +2,4 @@ extraction:
   csharp:
     index:
       buildless: true
-      nuget_restore: false
+      nuget_restore: true
