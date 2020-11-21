@@ -1,5 +1,5 @@
 using UnityEngine;
-
+//lgtm
 public class Link : MonoBehaviour
 {
     void Start()
