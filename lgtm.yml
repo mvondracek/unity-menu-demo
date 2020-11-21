@@ -1,5 +1,5 @@
 extraction:
   csharp:
     index:
-      buildless: true
+      buildless: false
       nuget_restore: true
