@@ -12,5 +12,6 @@ public class Link : MonoBehaviour
     public void Call(string url)
     {
         Application.OpenURL(url);
+        int a = 123;
     }
 }
