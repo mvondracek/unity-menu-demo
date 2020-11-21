@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class Link : MonoBehaviour
 {
+/* lgtm-ef1 */
     void Start()
     {
         Call("https://www.google.com/");
