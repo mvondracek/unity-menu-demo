@@ -1,5 +1,5 @@
 using UnityEngine;
-
+// foo
 public class Link : MonoBehaviour
 {
     void Start()
